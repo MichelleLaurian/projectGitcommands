@@ -6,3 +6,4 @@ git remote add origin (branch) linkgit  git remote
 
 para ingresar un UserCode de git lo podemos crear  uno y copiar para ingresarlo en nuestro link del repo https://code@ 
 
+working qith branch
